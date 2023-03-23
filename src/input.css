@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font1{
+    font-size: 1.6vh;
+    font-weight: 500;
+}
